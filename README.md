@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mikey-Debug! 👋</h1>
+<h1>Hi, I'm Mikey 👋</h1>
 
 I'm a software developer who is passionate about coding and constantly learning new technologies. My main focus at the moment is on Python and JavaScript, but I also have experience with PHP, HTML, CSS, SQL, C++ (Basic), and Tailwind.
 
